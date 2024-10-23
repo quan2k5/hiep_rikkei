@@ -1,0 +1,519 @@
+{
+  "users": [
+    {
+      "id": 70,
+      "username": "hiepduong",
+      "fullName": "Dương Sỹ Hiệp",
+      "email": "hiepduong0409@gmail.com",
+      "password": "Hiepduong",
+      "status": true,
+      "role": false,
+      "avatar": "https://th.bing.com/th/id/OIP.ItvA9eX1ZIYT8NHePqeuCgHaHa?rs=1&pid=ImgDetMain",
+      "phone": "0966926506",
+      "address": "HaNoi",
+      "created_at": "06-09-2024 11:35:21",
+      "updated_at": ""
+    },
+    {
+      "id": 71,
+      "username": "ngocnguyen",
+      "fullName": "Nguyễn Thạch Kim Ngọc",
+      "email": "ngocnguyen123@gmail.com",
+      "password": "Ngocnguyen",
+      "status": true,
+      "role": false,
+      "avatar": "https://th.bing.com/th/id/OIP.abcdef123456",
+      "phone": "0987654321",
+      "address": "HoChiMinh",
+      "created_at": "07-09-2024 12:00:00",
+      "updated_at": ""
+    },
+    {
+      "id": 72,
+      "username": "hoanglong",
+      "fullName": "Nguyễn Hoàng Long",
+      "email": "longhoang@gmail.com",
+      "password": "Hoanglong",
+      "status": true,
+      "role": false,
+      "avatar": "https://th.bing.com/th/id/OIP.hijklmn789012",
+      "phone": "0976543210",
+      "address": "DaNang",
+      "created_at": "08-09-2024 09:30:00",
+      "updated_at": ""
+    },
+    {
+      "id": 73,
+      "username": "thuylinh",
+      "fullName": "Trần Thùy Linh",
+      "email": "linhthuy@gmail.com",
+      "password": "Thuylinh",
+      "status": false,
+      "role": false,
+      "avatar": "https://th.bing.com/th/id/OIP.opqrstu345678",
+      "phone": "0965432109",
+      "address": "HaNoi",
+      "created_at": "08-09-2024 14:25:00",
+      "updated_at": ""
+    },
+    {
+      "id": 74,
+      "username": "quangtruong",
+      "fullName": "Lê Quang Trường",
+      "email": "truongle@gmail.com",
+      "password": "Quangtruong",
+      "status": false,
+      "role": false,
+      "avatar": "https://th.bing.com/th/id/OIP.vwxyzabc012345",
+      "phone": "0954321098",
+      "address": "Hue",
+      "created_at": "09-09-2024 16:50:00",
+      "updated_at": ""
+    },
+    {
+      "id": 75,
+      "username": "thanhhuyen",
+      "fullName": "Phạm Thanh Huyền",
+      "email": "huyenpham@gmail.com",
+      "password": "Thanhhuyen",
+      "status": true,
+      "role": false,
+      "avatar": "https://th.bing.com/th/id/OIP.abcdef78901234",
+      "phone": "0943210987",
+      "address": "VungTau",
+      "created_at": "10-09-2024 18:20:00",
+      "updated_at": ""
+    },
+    {
+      "id": 76,
+      "username": "khanhtuan",
+      "fullName": "Ngô Khánh Tuấn",
+      "email": "tuanngo@gmail.com",
+      "password": "Khanhtuan",
+      "status": true,
+      "role": false,
+      "avatar": "https://th.bing.com/th/id/OIP.bcdefg90123456",
+      "phone": "0932109876",
+      "address": "NhaTrang",
+      "created_at": "11-09-2024 11:45:00",
+      "updated_at": ""
+    },
+    {
+      "id": 77,
+      "username": "lamnguyen",
+      "fullName": "Nguyễn Lam",
+      "email": "lamnguyen@gmail.com",
+      "password": "Lamnguyen",
+      "status": true,
+      "role": false,
+      "avatar": "https://th.bing.com/th/id/OIP.fghijk23456789",
+      "phone": "0921098765",
+      "address": "CanTho",
+      "created_at": "12-09-2024 13:15:00",
+      "updated_at": ""
+    },
+    {
+      "id": 78,
+      "username": "letrinh",
+      "fullName": "Lê Phương Trinh",
+      "email": "trinhle@gmail.com",
+      "password": "Letrinh",
+      "status": true,
+      "role": false,
+      "avatar": "https://th.bing.com/th/id/OIP.hijklm34567890",
+      "phone": "0910987654",
+      "address": "BinhDinh",
+      "created_at": "13-09-2024 14:30:00",
+      "updated_at": ""
+    },
+    {
+      "username": "11",
+      "fullName": "1",
+      "email": "1@gmail.com",
+      "password": "1",
+      "phone": "1",
+      "address": "1",
+      "avatar": "1",
+      "status": true,
+      "created_at": "2024-10-18T01:13:24.318Z",
+      "updated_at": "",
+      "id": 79
+    },
+    {
+      "username": "2334",
+      "fullName": "1",
+      "email": "1@gmail.com",
+      "password": "11111",
+      "phone": "1",
+      "address": "1",
+      "avatar": "1",
+      "status": true,
+      "created_at": "2024-10-18T04:05:39.876Z",
+      "updated_at": "",
+      "id": 80
+    }
+  ],
+  "categories": [
+    {
+      "category_name": "Sách kinh tế",
+      "description": "Những cuốn sách cung cấp kiến thức về kinh tế, tài chính, kinh doanh.",
+      "image": "https://cf.shopee.vn/file/bfbd513397e64320147797ab48081a03",
+      "status": true,
+      "id": 4
+    },
+    {
+      "category_name": "Sách học ngoại ngữ",
+      "description": "Sách hướng dẫn học các ngôn ngữ khác nhau, từ cơ bản đến nâng cao.",
+      "image": "https://cf.shopee.vn/file/bfbd513397e64320147797ab48081a03",
+      "status": true,
+      "id": 5
+    },
+    {
+      "category_name": "Sách tâm lý - Kỹ năng sống",
+      "description": "Các cuốn sách cung cấp kiến thức về tâm lý và phát triển kỹ năng sống.",
+      "image": "https://cf.shopee.vn/file/bfbd513397e64320147797ab48081a03",
+      "status": true,
+      "id": 6
+    },
+    {
+      "category_name": "Sách khoa học - Công nghệ",
+      "description": "Tài liệu về các lĩnh vực khoa học, công nghệ tiên tiến và ứng dụng trong đời sống.",
+      "image": "https://cf.shopee.vn/file/bfbd513397e64320147797ab48081a03",
+      "status": true,
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "product_name": "Nhà Đầu Tư Thông Minh",
+      "description": "Sách về đầu tư tài chính và thị trường chứng khoán.",
+      "unit_price": "150000",
+      "stock_quantity": "10",
+      "image": [
+        "https://cf.shopee.vn/file/bfbd513397e64320147797ab48081a03inh.jpg"
+      ],
+      "categoryId": "4",
+      "created_at": "15/09/2024 10:00:00",
+      "updated_at": "15/09/2024 10:10:00",
+      "id": 2,
+      "sales_count": 3,
+      "reviews ": [
+        {
+          "user_id": 1,
+          "content": "đẹppp"
+        }
+      ]
+    },
+    {
+      "product_name": "Làm Giàu Từ Chứng Khoán",
+      "description": "Sách hướng dẫn chiến lược đầu tư chứng khoán.",
+      "unit_price": "200000",
+      "stock_quantity": "5",
+      "image": [
+        "https://example.com/images/lam_giau_tu_chung_khoan.jpg"
+      ],
+      "categoryId": "4",
+      "created_at": "16/09/2024 11:30:00",
+      "updated_at": "16/09/2024 12:00:00",
+      "id": 3,
+      "sales_count": 3,
+      "reviews ": [
+        {
+          "user_id": 1,
+          "content": "đẹppp"
+        }
+      ]
+    },
+    {
+      "product_name": "Học Tiếng Anh Căn Bản",
+      "description": "Sách dành cho người mới bắt đầu học tiếng Anh.",
+      "unit_price": "120000",
+      "stock_quantity": "15",
+      "image": [
+        "https://example.com/images/hoc_tieng_anh_can_ban.jpg"
+      ],
+      "categoryId": "5",
+      "created_at": "17/09/2024 09:00:00",
+      "updated_at": "17/09/2024 09:15:00",
+      "id": 4,
+      "sales_count": 3,
+      "reviews ": [
+        {
+          "user_id": 1,
+          "content": "đẹppp"
+        }
+      ]
+    },
+    {
+      "product_name": "Tiếng Hàn Dành Cho Người Mới Bắt Đầu",
+      "description": "Sách học tiếng Hàn cơ bản cho người mới.",
+      "unit_price": "140000",
+      "stock_quantity": "8",
+      "image": [
+        "https://example.com/images/hoc_tieng_han.jpg"
+      ],
+      "categoryId": "5",
+      "created_at": "18/09/2024 14:20:00",
+      "updated_at": "18/09/2024 14:45:00",
+      "id": 5,
+      "sales_count": 3,
+      "reviews ": [
+        {
+          "user_id": 1,
+          "content": "đẹppp"
+        }
+      ]
+    },
+    {
+      "product_name": "Đắc Nhân Tâm",
+      "description": "Cuốn sách nổi tiếng về nghệ thuật giao tiếp và thành công trong cuộc sống.",
+      "unit_price": "180000",
+      "stock_quantity": "12",
+      "image": [
+        "https://example.com/images/dac_nhan_tam.jpg"
+      ],
+      "categoryId": "6",
+      "created_at": "19/09/2024 16:30:00",
+      "updated_at": "19/09/2024 17:00:00",
+      "id": 6,
+      "sales_count": 3,
+      "reviews ": [
+        {
+          "user_id": 1,
+          "content": "đẹppp"
+        }
+      ]
+    },
+    {
+      "product_name": "7 Thói Quen Hiệu Quả",
+      "description": "Sách về phát triển bản thân và cách làm việc hiệu quả.",
+      "unit_price": "220000",
+      "stock_quantity": "7",
+      "image": [
+        "https://example.com/images/7_thoi_quen.jpg"
+      ],
+      "categoryId": "6",
+      "created_at": "20/09/2024 18:00:00",
+      "updated_at": "20/09/2024 18:30:00",
+      "id": 7,
+      "sales_count": 3,
+      "reviews ": [
+        {
+          "user_id": 1,
+          "content": "đẹppp"
+        }
+      ]
+    },
+    {
+      "product_name": "Tư Duy Phản Biện",
+      "description": "Sách về tư duy logic và cách ra quyết định.",
+      "unit_price": "190000",
+      "stock_quantity": "9",
+      "image": [
+        "https://example.com/images/tu_duy_phan_bien.jpg"
+      ],
+      "categoryId": "6",
+      "created_at": "21/09/2024 08:45:00",
+      "updated_at": "21/09/2024 09:00:00",
+      "id": 8,
+      "sales_count": 3,
+      "reviews ": [
+        {
+          "user_id": 1,
+          "content": "đẹppp"
+        }
+      ]
+    },
+    {
+      "product_name": "Khoa Học Cho Mọi Người",
+      "description": "Sách giới thiệu những kiến thức khoa học cơ bản.",
+      "unit_price": "250000",
+      "stock_quantity": "6",
+      "image": [
+        "https://example.com/images/khoa_hoc_co_ban.jpg"
+      ],
+      "categoryId": "7",
+      "created_at": "22/09/2024 10:30:00",
+      "updated_at": "22/09/2024 11:00:00",
+      "id": 9,
+      "sales_count": 3,
+      "reviews ": [
+        {
+          "user_id": 1,
+          "content": "đẹppp"
+        }
+      ]
+    },
+    {
+      "product_name": "Công Nghệ Blockchain",
+      "description": "Sách về công nghệ blockchain và ứng dụng của nó.",
+      "unit_price": "300000",
+      "stock_quantity": "4",
+      "image": [
+        "https://example.com/images/cong_nghe_blockchain.jpg"
+      ],
+      "categoryId": "7",
+      "created_at": "23/09/2024 12:00:00",
+      "updated_at": "23/09/2024 12:30:00",
+      "id": 1,
+      "sales_count": 3,
+      "reviews ": [
+        {
+          "user_id": 1,
+          "content": "đẹppp"
+        }
+      ]
+    },
+    {
+      "product_name": "Trí Tuệ Nhân Tạo",
+      "description": "Sách về AI và các công nghệ thông minh.",
+      "unit_price": "270000",
+      "stock_quantity": "11",
+      "image": [
+        "https://example.com/images/tri_tue_nhan_tao.jpg"
+      ],
+      "categoryId": "7",
+      "created_at": "24/09/2024 14:30:00",
+      "updated_at": "24/09/2024 15:00:00",
+      "id": 1,
+      "sales_count": 3,
+      "reviews ": [
+        {
+          "user_id": 1,
+          "content": "đẹppp"
+        }
+      ]
+    },
+    {
+      "product_name": "1",
+      "description": "",
+      "unit_price": "",
+      "stock_quantity": "",
+      "image": "",
+      "id": 10
+    }
+  ],
+  "orders": [
+    {
+      "order_id": 3,
+      "serial_number": "ORD0001",
+      "user_id": 3,
+      "order_at": "14/10/2024 10:30:00",
+      "total_price": 12000000,
+      "status": 1,
+      "note": "Giao trước 5 giờ chiều",
+      "order_details": [
+        {
+          "order_detail_id": 1,
+          "product_id": 2,
+          "name": "Nhà Đầu Tư Thông Minh",
+          "unit_price": 6000000,
+          "order_quantity": 2
+        }
+      ],
+      "receive_name": "Dương Sỹ Hiệp",
+      "receive_address": "Thanh Oai",
+      "receive_phone": "0123456789",
+      "created_at": "14/10/2024",
+      "updated_at": "14/10/2024"
+    },
+    {
+      "order_id": 4,
+      "serial_number": "ORD0002",
+      "user_id": 3,
+      "order_at": "15/10/2024 12:00:00",
+      "total_price": 8500000,
+      "status": 1,
+      "note": "Giao hàng trong buổi sáng",
+      "order_details": [
+        {
+          "order_detail_id": 2,
+          "product_id": 3,
+          "name": "Làm Giàu Từ Chứng Khoán",
+          "unit_price": 8500000,
+          "order_quantity": 1
+        }
+      ],
+      "receive_name": "Dương Sỹ Hiệp",
+      "receive_address": "Thanh Oai",
+      "receive_phone": "0379196972",
+      "created_at": "15/10/2024",
+      "updated_at": "15/10/2024"
+    },
+    {
+      "order_id": 5,
+      "serial_number": "ORD0003",
+      "user_id": 3,
+      "order_at": "16/10/2024 09:45:00",
+      "total_price": 4900000,
+      "status": 1,
+      "note": "Giao hàng trong tuần",
+      "order_details": [
+        {
+          "order_detail_id": 3,
+          "product_id": 4,
+          "name": "Học Tiếng Anh Căn Bản",
+          "unit_price": 4900000,
+          "order_quantity": 1
+        }
+      ],
+      "receive_name": "Dương Sỹ Hiệp",
+      "receive_address": "Thanh Oai",
+      "receive_phone": "0123456789",
+      "created_at": "16/10/2024",
+      "updated_at": "16/10/2024"
+    },
+    {
+      "order_id": 6,
+      "serial_number": "ORD0004",
+      "user_id": 3,
+      "order_at": "17/10/2024 08:00:00",
+      "total_price": 2000000,
+      "status": 1,
+      "note": "Giao hàng tận nơi",
+      "order_details": [
+        {
+          "order_detail_id": 4,
+          "product_id": 5,
+          "name": "Tiếng Hàn Dành Cho Người Mới Bắt Đầu",
+          "unit_price": 2000000,
+          "order_quantity": 1
+        }
+      ],
+      "receive_name": "Dương Sỹ Hiệp",
+      "receive_address": "Thanh Oai",
+      "receive_phone": "0123456789",
+      "created_at": "17/10/2024",
+      "updated_at": "17/10/2024"
+    },
+    {
+      "order_id": 7,
+      "serial_number": "ORD0005",
+      "user_id": 3,
+      "order_at": "18/10/2024 13:00:00",
+      "total_price": 2000000,
+      "status": 1,
+      "note": "Giao hàng trong ngày",
+      "order_details": [
+        {
+          "order_detail_id": 5,
+          "product_id": 6,
+          "name": "Đắc Nhân Tâm",
+          "unit_price": 2000000,
+          "order_quantity": 1
+        }
+      ],
+      "receive_name": "Dương Sỹ Hiệp",
+      "receive_address": "Thanh Oai",
+      "receive_phone": "0123456789",
+      "created_at": "18/10/2024",
+      "updated_at": "18/10/2024"
+    }
+  ],
+  "admin": [
+    {
+      "email": "admin@example.com",
+      "password": "admin123"
+    }
+  ]
+}
