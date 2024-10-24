@@ -45,7 +45,7 @@ const category = {
       await deleteCategory(categoryId);
       commit('deleteCategoryMutations', categoryId);
     },
-    async addCategory({ commit }, newCategory) {
+    async addCategory({ commit }, newCategory) {  
       const response = await addCategory(newCategory);
       commit('addCategoryMutations', response.data);
     },

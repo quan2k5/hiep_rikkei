@@ -6,7 +6,7 @@
       "fullName": "Dương Sỹ Hiệp",
       "email": "hiepduong0409@gmail.com",
       "password": "Hiepduong",
-      "status": true,
+      "status": false,
       "role": false,
       "avatar": "https://th.bing.com/th/id/OIP.ItvA9eX1ZIYT8NHePqeuCgHaHa?rs=1&pid=ImgDetMain",
       "phone": "0966926506",
@@ -48,7 +48,7 @@
       "fullName": "Trần Thùy Linh",
       "email": "linhthuy@gmail.com",
       "password": "Thuylinh",
-      "status": false,
+      "status": true,
       "role": false,
       "avatar": "https://th.bing.com/th/id/OIP.opqrstu345678",
       "phone": "0965432109",
@@ -181,6 +181,12 @@
       "image": "https://cf.shopee.vn/file/bfbd513397e64320147797ab48081a03",
       "status": true,
       "id": 7
+    },
+    {
+      "category_name": "ạidcis",
+      "description": "sdciij",
+      "image": "https://firebasestorage.googleapis.com/v0/b/eco-vuejs.appspot.com/o/images%2Ft%E1%BA%A3i%20xu%E1%BB%91ng%20(3).jpg?alt=media&token=b9507b42-a40e-4213-823d-dfa40cd6edb2",
+      "id": 8
     }
   ],
   "products": [
